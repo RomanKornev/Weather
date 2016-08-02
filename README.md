@@ -17,6 +17,6 @@ pip install python-forecastio
 ```
 To install the plugin, type in Wox:
 ```
-wpm install Forecast
+wpm install Weather Now
 ```
 Special thanks to [@adamwhitcroft](https://twitter.com/adamwhitcroft) for [Climacons](https://github.com/AdamWhitcroft/Climacons)
