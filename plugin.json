@@ -1,0 +1,12 @@
+{
+    "ID":"7f0ab9ed0f71421b9d52268713daa006",
+    "ActionKeyword":"weather",
+    "Name":"Weather Now",
+    "Description":"Weather right now",
+    "Author":"RomanKornev",
+    "Version":"1.0.0",
+    "Language":"python",
+    "Website":"https://github.com/RomanKornev/Weather",
+    "IcoPath":"icons\\app.png",
+    "ExecuteFileName":"main.py"
+}
