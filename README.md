@@ -20,3 +20,5 @@ To install the plugin, type in Wox:
 wpm install Weather Now
 ```
 Special thanks to [@adamwhitcroft](https://twitter.com/adamwhitcroft) for [Climacons](https://github.com/AdamWhitcroft/Climacons)
+
+[Powered by Dark Sky](https://darksky.net/poweredby/)
